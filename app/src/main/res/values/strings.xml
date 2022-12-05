@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculaterApp</string>
+    <string name="total">Total Amount %s</string>
+</resources>
